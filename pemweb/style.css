@@ -1,0 +1,21 @@
+table {
+  justify-content: center;
+  width: 50%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+.button {
+  color: blue;
+}
+th,
+td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+.form-container {
+  margin-bottom: 20px;
+}
